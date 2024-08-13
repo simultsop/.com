@@ -1,0 +1,28 @@
+{
+  "name": "simultsop.com",
+  "version": "0.0.1",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simultsop/.com.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "simultsop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simultsop/.com/issues"
+  },
+  "homepage": "https://github.com/simultsop/.com#readme",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.3.2"
+  }
+}
