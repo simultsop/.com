@@ -4,13 +4,13 @@ layout: home
 
 hero:
   name: "simultsop"
-  text: "set of utility packages"
-  tagline: The never-ending journey of SaaS platform pragmatization
+  text: "utility packages"
+  tagline: Journey to SaaS pragmatization
 
 features:
-  - title: d1driver
-    details: CloudFlare D1 (sqlite) driver
   - title: dry
     details: Bare minimum utility components for vue js.
+  - title: d1driver
+    details: CloudFlare D1 (sqlite) driver
 ---
 
