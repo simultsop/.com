@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'DRY components', link: '/markdown-examples' },
-      { text: 'D1Driver', link: '/markdown-examples' }
+      { text: 'D1Driver', link: '/d1driver' }
     ],
 
     sidebar: [
@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Packages',
         items: [
           { text: 'DRY components', link: '/markdown-examples' },
-          { text: 'D1Driver', link: '/markdown-examples' }
+          { text: 'D1Driver', link: '/d1driver' }
         ]
       }
     ],
