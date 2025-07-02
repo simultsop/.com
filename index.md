@@ -4,22 +4,13 @@ layout: home
 
 hero:
   name: "simultsop"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  text: "set of utility packages"
+  tagline: The never-ending journey of SaaS platform pragmatization
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: d1driver
+    details: CloudFlare D1 (sqlite) driver
+  - title: dry
+    details: Bare minimum utility components for vue js.
 ---
 
