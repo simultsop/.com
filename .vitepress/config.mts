@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'DRY components', link: '/markdown-examples' },
+      { text: 'DRY components', link: '/dry' },
       { text: 'D1Driver', link: '/markdown-examples' }
     ],
 
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Packages',
         items: [
-          { text: 'DRY components', link: '/markdown-examples' },
+          { text: 'DRY components', link: '/dry' },
           { text: 'D1Driver', link: '/markdown-examples' }
         ]
       }
