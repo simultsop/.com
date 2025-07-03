@@ -7,7 +7,6 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'DRY components', link: '/dry' },
       { text: 'D1Driver', link: '/d1driver' }
     ],
@@ -21,7 +20,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/simultsop' }
     ]
