@@ -1,6 +1,6 @@
 # DRY Components
 
-DRY (Don't Repeat Yourself) Components is a collection of bare minimum utility components for Vue.js applications. These components are designed to reduce code duplication and provide reusable solutions for common UI patterns.
+DRY (Don't Repeat Yourself) Components is a collection of bare minimum utility components for Vue.js applications.
 
 ## Installation {#installation}
 
