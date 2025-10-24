@@ -7,7 +7,7 @@ DRY (Don't Repeat Yourself) Components is a collection of bare minimum utility c
 Install the DRY components package via npm:
 
 ```bash
-npm install @simultsop/dry
+npm install @s32n/dry
 ```
 
 ## Usage {#usage}
@@ -16,7 +16,7 @@ Import and use DRY components in your Vue.js application:
 
 ```js
 import { defineComponent } from 'vue'
-import { Dev, Prod, Inspect } from '@simultsop/dry'
+import { Dev, Prod, Inspect } from '@s32n/dry'
 
 export default defineComponent({
   components: {
