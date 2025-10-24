@@ -62,7 +62,7 @@ Environment based rendering
 </template>
 
 <script setup>
-import { Prod } from '@simultsop/dry'
+import { Prod } from '@s32n/dry'
 </script>
 ```
 
@@ -78,7 +78,7 @@ Inspect data and alike
 </template>
 
 <script setup>
-import { Inspect } from '@simultsop/dry'
+import { Inspect } from '@s32n/dry'
 const anyData = {
   many: "properties",
   toBe: "inspected"
